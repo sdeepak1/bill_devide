@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bill Divide</string>
+    <string name="enter_total_unit">Enter Total Unit</string>
+    <string name="_300_eg">300…eg</string>
+    <string name="enter_total_bill_amount">Enter Total Bill Amount</string>
+    <string name="_3000_eg">3000..eg</string>
+    <string name="enter_total_number_of_person">Enter Total Number Of Person</string>
+    <string name="_10_eg">10..eg</string>
+    <string name="next">Next</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="enter_old_meter_reading">Enter Old Meter Reading</string>
+    <string name="enter_new_meter_reading">Enter New Meter Reading</string>
+    <string name="old_reading">Old Reading.</string>
+    <string name="new_reading">New Reading.</string>
+    <string name="total_consume_unit">Total Consume Unit</string>
+    <string name="per_unit_cost">Per Unit Cost</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="person_1">Person 1</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="enter_person_name">Enter Person Name</string>
+    <string name="balance_unit">Balance Unit</string>
+    <string name="balance_amount">Balance Amount</string>
+    <string name="AdUnitId">ca-app-pub-3855679651847054/5106390123</string>
+
+    <string name="devide_your_electricity_bill_in_a_few_second">Divide your electricity bill in a few second</string>
+    <string name="todo">TODO</string>
+</resources>
